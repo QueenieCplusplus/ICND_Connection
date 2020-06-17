@@ -23,7 +23,7 @@
 
 同步。
 
-* DB-9 (console)
+* DB-9 (console --- terminal)
 
 RJ-45 rollover cable
 
