@@ -17,6 +17,13 @@
 
 同步。
 
+* DB-9 (console)
+
+RJ-45 rollover cable
+
+![rollover](https://www.jannet.hk/content/public/upload/console/03.png)
+
+
 * Tx Rx (fiber)
 
 Transmitter & Receiver
