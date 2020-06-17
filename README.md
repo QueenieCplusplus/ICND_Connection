@@ -7,4 +7,4 @@
 
 * DB-15
 
-![vga](https://zh.wikipedia.org/wiki/File:SVGA_port.jpg)
+![AUI](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AUI_connector_on_DEC_EtherWorks_LC_%28DE100%29.jpg/440px-AUI_connector_on_DEC_EtherWorks_LC_%28DE100%29.jpg)
