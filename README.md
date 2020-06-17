@@ -72,3 +72,17 @@ serial 1/0
 
 ![nic](https://www.newegg.com/startech-usb150wn1x1w-usb-2-0/p/N82E16833114110?Description=wireless%20NIC&cm_re=wireless_NIC-_-33-114-110-_-Product)
 
+* Host / PC / Terminal / Working Station
+
+一般預設為一張無線網卡、一張有線網卡（可自己額外添加）。
+
+* Server 
+
+伺服器根據主機板可以添加多個網卡
+
+* Router 
+
+* Switcher
+
+* Bridge
+
