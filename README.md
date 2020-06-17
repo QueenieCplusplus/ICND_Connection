@@ -18,8 +18,8 @@
 Transmitter & Receiver
 
 
-* DCE
+* DCE & DTE
 
-Data Circuit-Terminate Equipment
+Data Circuit-Terminate Equipment 母 & Data Terminal Equipment 公
 
 ![dce](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Terminaladapter_X.21.jpg/440px-Terminaladapter_X.21.jpg)
