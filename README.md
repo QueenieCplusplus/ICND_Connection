@@ -1,6 +1,12 @@
 # ICND Network Connection
 網路接線
 
+* Jump Cable 
+
+跳接線（俗稱網路線）
+
+![跳接線](http://www.wondernet.com.tw/upload/PD/IMAGE_302_1.GIF)
+
 * RJ-45
 
 8p8c
