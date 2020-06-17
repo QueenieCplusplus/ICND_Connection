@@ -45,6 +45,8 @@ Transmitter & Receiver
 
 ![](https://img.alicdn.com/imgextra/i4/2887279431/TB2Gz4kbHH9F1JjSZFAXXba3VXa_!!2887279431.jpg_640x640Q50s50.jpg)
 
+http://mis6688.blogspot.com/2017/02/blog-post_28.html?m=1
+
 * DCE & DTE (serial for router)
 
 Data Circuit-Terminate Equipment 母 & Data Terminal Equipment 公
