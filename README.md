@@ -29,3 +29,6 @@ Data Circuit-Terminate Equipment 母 & Data Terminal Equipment 公
 電話交換網路技術
 
 ![bri](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/T-Concept-ISDN.jpg/440px-T-Concept-ISDN.jpg)
+
+* Port (路由器埠)
+
