@@ -18,7 +18,7 @@
 Transmitter & Receiver
 
 
-* DCE & DTE
+* DCE & DTE (serial for router)
 
 Data Circuit-Terminate Equipment 母 & Data Terminal Equipment 公
 
