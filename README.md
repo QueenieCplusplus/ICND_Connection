@@ -43,6 +43,8 @@ Data Circuit-Terminate Equipment 母 & Data Terminal Equipment 公
 
 * BRI (ISDN)
 
+類似 rj45 但6p6c
+
 電話交換網路技術
 
 ![bri](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/T-Concept-ISDN.jpg/440px-T-Concept-ISDN.jpg)
