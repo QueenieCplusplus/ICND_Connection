@@ -68,3 +68,7 @@ serial 1/0
 
 ![nic](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Network_card.jpg/440px-Network_card.jpg)
 
+* Wireless NIC
+
+![nic](https://www.newegg.com/startech-usb150wn1x1w-usb-2-0/p/N82E16833114110?Description=wireless%20NIC&cm_re=wireless_NIC-_-33-114-110-_-Product)
+
