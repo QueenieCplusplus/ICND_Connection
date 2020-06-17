@@ -23,3 +23,9 @@ Transmitter & Receiver
 Data Circuit-Terminate Equipment 母 & Data Terminal Equipment 公
 
 ![dce](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Terminaladapter_X.21.jpg/440px-Terminaladapter_X.21.jpg)
+
+* BRI (ISDN)
+
+電話交換網路技術
+
+![bri](https://s7.images.keysight.com/s7viewers/html5/ZoomViewer.html?asset=Keysight/PROD-32584-IS)
