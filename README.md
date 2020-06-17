@@ -37,9 +37,11 @@ RJ-45 rollover cable
 
 ![rollover](https://www.jannet.hk/content/public/upload/console/03.png)
 
-* Tx Rx (fiber 光纖線)
+* Tx Rx (fiber 光纖線, round model is deprecated, replaced by square)
 
 Transmitter & Receiver
+
+![](https://1.bp.blogspot.com/-oBqPEFD0X1w/WLZrcoJmqXI/AAAAAAAABQk/LPQYGfUZl6U-zhGppBzWo1NA7Px-MNHpwCLcB/s1600/GBIC1.png)
 
 ![](https://img.alicdn.com/imgextra/i4/2887279431/TB2Gz4kbHH9F1JjSZFAXXba3VXa_!!2887279431.jpg_640x640Q50s50.jpg)
 
