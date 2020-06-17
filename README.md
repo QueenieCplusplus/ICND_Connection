@@ -30,5 +30,9 @@ Data Circuit-Terminate Equipment 母 & Data Terminal Equipment 公
 
 ![bri](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/T-Concept-ISDN.jpg/440px-T-Concept-ISDN.jpg)
 
-* Port (路由器埠)
+* Port (路由器序列埠)
+
+serial 1/0 
+
+連接方式 插槽編號 連接埠號
 
