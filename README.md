@@ -23,12 +23,19 @@
 
 同步。
 
-* DB-9 (console --- terminal)
+* DB-9 (早期 console --- terminal)
 
 RJ-45 rollover cable
 
 ![rollover](https://www.jannet.hk/content/public/upload/console/03.png)
 
+* USB (現在 console --- terminal)
+
+RJ-45 rollover cable
+
+現在已經使用 usb或無線 取代 db-9
+
+![rollover](https://www.jannet.hk/content/public/upload/console/03.png)
 
 * Tx Rx (fiber)
 
