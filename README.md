@@ -13,17 +13,17 @@
 
 ![rj45](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rj45plug-8p8c.png/480px-Rj45plug-8p8c.png)
 
-* DB-15
+* DB-15 (Deprecated)
 
 15-pin connector that provides a path between an Ethernet node's Physical Signaling and the Medium Attachment Unit (MAU)
 
 ![AUI](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AUI_connector_on_DEC_EtherWorks_LC_%28DE100%29.jpg/440px-AUI_connector_on_DEC_EtherWorks_LC_%28DE100%29.jpg)
 
-* DB-60
+* DB-60 (Deprecated)
 
 同步。
 
-* DB-9 (早期 console --- terminal)
+* DB-9 ((Deprecated, 早期 console --- terminal) 
 
 RJ-45 rollover cable
 
