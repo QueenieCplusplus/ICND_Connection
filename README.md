@@ -3,6 +3,8 @@
 
 * RJ-45
 
+8p8c
+
 ![rj45](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rj45plug-8p8c.png/480px-Rj45plug-8p8c.png)
 
 * DB-15
