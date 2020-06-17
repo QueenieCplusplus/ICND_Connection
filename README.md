@@ -13,6 +13,13 @@
 
 ![AUI](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AUI_connector_on_DEC_EtherWorks_LC_%28DE100%29.jpg/440px-AUI_connector_on_DEC_EtherWorks_LC_%28DE100%29.jpg)
 
-* Tx Rx
+* Tx Rx (fiber)
 
 Transmitter & Receiver
+
+
+* DCE
+
+Data Circuit-Terminate Equipment
+
+![dce](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Terminaladapter_X.21.jpg/440px-Terminaladapter_X.21.jpg)
