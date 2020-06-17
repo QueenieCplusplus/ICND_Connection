@@ -62,3 +62,9 @@ serial 1/0
 
 連接方式 插槽編號 連接埠號
 
+# Network Equipment
+
+* NIC
+
+![nic](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Network_card.jpg/440px-Network_card.jpg)
+
