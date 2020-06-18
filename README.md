@@ -55,6 +55,8 @@ Data Circuit-Terminate Equipment 母 & Data Terminal Equipment 公
 
 * BRI (ISDN)
 
+Basic Rate Interface (Integrated Service Digital Network)
+
 類似 rj45 但6p6c
 
 電話交換網路技術
@@ -70,6 +72,8 @@ serial 1/0
 # Network Equipment
 
 * NIC
+
+Network Interface Connector
 
 ![nic](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Network_card.jpg/440px-Network_card.jpg)
 
